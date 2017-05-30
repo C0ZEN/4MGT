@@ -207,3 +207,18 @@ L'entreprise tend à devenir réactive et fataliste
 - Plutôt que proactif et objectif
 
 Dans la pratique, les budgets roulants sont utilisés pour des activités commerciales spécifiques ou des opérations ou des produits / services, généralement pas dans l'ensemble
+
+### Budgétisation à base de zéro
+
+La budgétisation à base de zéro est la création d'un budget totalement nouveau, comme si aucune donnée de performance passée n'était disponible.
+
+- Les services populaires dans les opérations commerciales, les organismes à but non lucratif et le secteur public (opérations efficaces où les budgets sont imposés et non soumis à négociation, en raison de ressources limitées)
+
+Est-ce une alternative à l'approche incrémentale (traditionnelle)
+
+- Défis du statu quo
+- Chaque année, le budget est traité différemment
+
+Cette approche exige que toutes les activités soient justifiées et hiérarchisées avant d'affecter des ressources
+
+- Le but sous-jacent est d'obtenir un bon rapport qualité-prix
