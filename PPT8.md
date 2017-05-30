@@ -62,13 +62,14 @@ La budgétisation englobe les flux positifs et négatifs de toutes les ressource
 
 ### Approches budgétaires: un compromis
 
-**Souvent, la meilleure approche est une combinaison des deux approches :**  
-La haute direction fournit des limites de planification et des lignes directrices.  
-Les gestionnaires d'exécution fournissent des budgets pour leurs opérations qui respectent les lignes directrices de planification.
+Souvent, la meilleure approche est une combinaison des deux approches :
+
+- La haute direction fournit des limites de planification et des lignes directrices.  
+- Les gestionnaires d'exécution fournissent des budgets pour leurs opérations qui respectent les lignes directrices de planification.
 
 Les cadres supérieurs ont une meilleure compréhension des objectifs généraux et des stratégies de l'entreprise
 
-Les gestionnaires intermédiaires et juniors ont une meilleure compréhension des capacités quotidiennes de l'entreprise, y compris:
+Les gestionnaires intermédiaires et juniors ont une meilleure compréhension des capacités quotidiennes de l'entreprise, y compris :
 
 - Compétences
 - Performance opérationnelle: en termes d'efficacité et de productivité
