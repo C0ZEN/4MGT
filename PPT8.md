@@ -56,6 +56,20 @@ La budgétisation englobe les flux positifs et négatifs de toutes les ressource
 
 - Dérivé du bas, en fonction de l'activité projetée
 - Peut être partial
-- Peut générer une participation et une motivation positives, un sentiment de «propriété»
+- Peut générer une participation et une motivation positive, un sentiment de «propriété»
 - Favorise la précision et une meilleure qualité des données
 - Peut être très long et complexe
+
+### Approches budgétaires: un compromis
+
+**Souvent, la meilleure approche est une combinaison des deux approches :**  
+La haute direction fournit des limites de planification et des lignes directrices.  
+Les gestionnaires d'exécution fournissent des budgets pour leurs opérations qui respectent les lignes directrices de planification.
+
+Les cadres supérieurs ont une meilleure compréhension des objectifs généraux et des stratégies de l'entreprise
+
+Les gestionnaires intermédiaires et juniors ont une meilleure compréhension des capacités quotidiennes de l'entreprise, y compris:
+
+- Compétences
+- Performance opérationnelle: en termes d'efficacité et de productivité
+- Capacité: goulots d'étranglement et limites
