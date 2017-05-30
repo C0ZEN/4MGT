@@ -1,6 +1,6 @@
 # PP2 - Principe d’amortissement
 
-**Actifs**
+##### Actifs
 
 Actifs = élément avec valeur détenue par une entreprise. 
 
@@ -11,12 +11,12 @@ Comptes débiteurs = promesses des clients de payer le produit qu’ils ont déj
 
 Investissements réalisés par l’entreprise
 
-**Types d’actifs: **
+##### Types d’actifs:
 
 - Actifs (substance physique): véhicules, matériel informatique, outils … 
 - Passifs (non monétaire et sans substance physique): droits d’auteur, brevets, licences …
 
-**Amortissement**
+##### Amortissement
 
 Est utilisé pour mesurer la réduction de la valeur de l’actif dans le temps. 
 Perte de valeur d’un actif corporel dans le temps 
