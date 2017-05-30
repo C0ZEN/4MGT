@@ -30,3 +30,32 @@ Bien sûr, dans la pratique, tout le monde ne perçoit pas la budgétisation com
 - Vu comme une imposition
 - Ne reflète pas les décisions d'affaires
 
+### Le budget n'est pas une prévision
+
+Un budget est un résultat planifié de l'avenir dans une perspective pré-convenue.  
+ Il indique où vous avez l'intention d'aller.
+
+Une prévision est l'attente actuelle de l'avenir.  
+Il vous dit où vous dirigez réellement, en fonction des réalités en vigueur.
+
+### Couverture budgétaire
+
+La budgétisation englobe les flux positifs et négatifs de toutes les ressources financières.
+
+### Approche descendante ou ascendante ?
+
+**TOP DOWN :**  
+
+- Imposé du haut
+- Petite flexibilité et rigide
+- Souvent enragé, sans «buy-in» et peu de motivation
+- Peut être inexact
+- Peut être simple et rapide à construire
+
+**BOTTOM UP :**
+
+- Dérivé du bas, en fonction de l'activité projetée
+- Peut être partial
+- Peut générer une participation et une motivation positives, un sentiment de «propriété»
+- Favorise la précision et une meilleure qualité des données
+- Peut être très long et complexe
