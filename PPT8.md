@@ -16,5 +16,17 @@ Le budget est une expression à court terme de la stratégie de l'entreprise et 
 ### But et définition d'un budget
 
 Un budget peut également être défini comme "une carte pour naviguer dans la performance opérationnelle de l'entreprise vers une cible ou un objectif souhaité".  
-Les budgets sont généralement produits sur une base annuelle
+Les budgets sont généralement produits sur une base annuelle.
+
+### Quelques vues négatives communes de la budgétisation
+
+Bien sûr, dans la pratique, tout le monde ne perçoit pas la budgétisation comme bénéfique pour diverses raisons:
+
+- Plus de paperasse
+- Épuisement des ressources
+- Bureaucratique, trop procédural et mal communiqué
+- Responsabilité sans autorité adéquate
+- Peut être inflexible
+- Vu comme une imposition
+- Ne reflète pas les décisions d'affaires
 
