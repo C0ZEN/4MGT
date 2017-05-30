@@ -179,6 +179,7 @@ Ne prévoyez pas de revenus et de bénéfices. Cela n'arrive pas toujours comme 
 Le CEO est préparé en supposant qu'une entreprise durera dans un avenir prévisible.
 
 **Correspondant à :**  
+
 Faire correspondre les re
 venus et les coûts au fur et à mesure qu'ils sont gagnés.
 
