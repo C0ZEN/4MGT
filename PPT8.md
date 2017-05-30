@@ -109,4 +109,44 @@ Types de mesures de contrôle si sous budget :
 - Nouvelles machines pour améliorer la productivité
 - Des frais généraux plus efficaces
 
-Ne pas ignorer l'effet de vos actions sur le budget de l'année prochaine
+Ne pas ignorer l'effet de vos actions sur le budget de l'année prochaine.
+
+### Types de budgets
+
+Les budgets sont souvent classés selon leur calcul.
+
+Il existe plusieurs types d'utilisation commune :
+
+- Incrémentale
+- Basé sur zéro
+- Roulant
+- Flexible
+
+### Facteurs à prendre en compte: Budgets incrémentaux
+
+Positif :
+
+- Facilite et développe rapidement des budgets
+- Peut aider à définir des cibles très spécifiques pour les bénéfices
+
+Négatif :
+
+- Les erreurs, les faiblesses ou les inefficacités des chiffres de l'année précédente sont reportés dans la nouvelle année
+- L'année écoulée n'est pas toujours un bon indicateur de l'avenir
+- Toute activité inhabituelle (ou unique) dans le passé peut également se retrouver dans le budget de l'année suivante
+- Une augmentation de 10% des ventes ne signifie pas nécessairement le même niveau d'augmentation des coûts de maintenance
+- Ignore les relations entre les activités, les économies d'échelle et l'efficacité grâce à la productivité
+
+### Budgétisation flexible
+
+Souvent, lorsque la demande est inconnue ou incertaine, les chiffres des produits et des dépenses sont difficiles à prédire :
+
+- Dans de telles situations, il est nécessaire de produire des budgets pour des résultats et des scénarios alternatifs basés sur des volumes / valeurs différents ou d'autres variables imprévisibles
+- Aide à préparer les problèmes de capacité et autres ressources requises
+
+Les budgets flexibles ne sont pas très courants dans la pratique :
+
+- Parfois, on trouve dans les entreprises de fabrication où la demande peut varier considérablement, et souvent hors du contrôle des gestionnaires
+- L'industrie automobile a tendance à l'utiliser - en raison de fluctuations soudaines de la demande
+
+Le scénario alternatif pertinent est adopté dès que les chiffres deviennent plus sûrs.
