@@ -14,3 +14,7 @@ Easy, with no love, again.
 - [PPT6](PPT6.md)
 - [PPT7](PPT7.md)
 - [PPT8 - In progress](PPT8.md)
+
+### GitHub pages
+
+You can see a better readable markdown style directly on the [GitHub pages version](https://c0zen.github.io/4MGT/) of this repository, thanks to this beauty **cayman** theme.
