@@ -2,15 +2,18 @@
 
 ### Stratégie d'entreprise et budgétisation
 
-**Stratégie d'entreprise :**  
+##### Stratégie d'entreprise :
+
 Vision de l'endroit où l'entreprise veut être à long terme (habituellement 5-10 ans en avant).   
 Par exemple, «Être un chef de file régional et pionnier dans le secteur des télécommunications».
 
-**Business plan :**  
+##### Business plan :
+
 Détermine ce que l'organisation doit faire à moyen terme pour atteindre les objectifs stratégiques.   
 Par exemple, «Augmenter la part de marché de 10% au cours des deux prochaines années».
 
-**Budgets :**  
+##### Budgets :
+
 Le budget est une expression à court terme de la stratégie de l'entreprise et sera utilisé pour le contrôle détaillé - efficacement la mise en œuvre du plan d'affaires
 
 ### But et définition d'un budget
@@ -33,7 +36,7 @@ Bien sûr, dans la pratique, tout le monde ne perçoit pas la budgétisation com
 ### Le budget n'est pas une prévision
 
 Un budget est un résultat planifié de l'avenir dans une perspective pré-convenue.  
- Il indique où vous avez l'intention d'aller.
+Il indique où vous avez l'intention d'aller.
 
 Une prévision est l'attente actuelle de l'avenir.  
 Il vous dit où vous dirigez réellement, en fonction des réalités en vigueur.
@@ -44,7 +47,7 @@ La budgétisation englobe les flux positifs et négatifs de toutes les ressource
 
 ### Approche descendante ou ascendante ?
 
-**TOP DOWN :**  
+##### TOP DOWN :
 
 - Imposé du haut
 - Petite flexibilité et rigide
@@ -52,7 +55,7 @@ La budgétisation englobe les flux positifs et négatifs de toutes les ressource
 - Peut être inexact
 - Peut être simple et rapide à construire
 
-**BOTTOM UP :**
+##### BOTTOM UP :
 
 - Dérivé du bas, en fonction de l'activité projetée
 - Peut être partial
@@ -124,12 +127,12 @@ Il existe plusieurs types d'utilisation commune :
 
 ### Facteurs à prendre en compte: Budgets incrémentaux
 
-**Positif :**
+##### Positif :
 
 - Facilite et développe rapidement des budgets
 - Peut aider à définir des cibles très spécifiques pour les bénéfices
 
-**Négatif :**
+##### Négatif :
 
 - Les erreurs, les faiblesses ou les inefficacités des chiffres de l'année précédente sont reportés dans la nouvelle année
 - L'année écoulée n'est pas toujours un bon indicateur de l'avenir
@@ -153,12 +156,12 @@ Le scénario alternatif pertinent est adopté dès que les chiffres deviennent p
 
 ### Facteurs à considérer: budgétisation flexible
 
-**Positif :**
+##### Positif :
 
 Si les prévisions de revenus se déplacent vers la base d'un budget alternatif, elles sont mises en vigueur immédiatement.
 Peut être fait rapidement, car il est déjà préparé et accepté.
 
-**Négatif :**
+##### Négatif :
 
 Peut être un exercice long, car chaque issue doit être évaluée séparément.
 
@@ -180,7 +183,7 @@ Le budget est mis à jour en continu en ajoutant un autre mois / trimestre à l'
 - Les budgets sont recalculés en fonction de la dernière tendance et / ou de nouvelles données (comme les indicateurs économiques ou la demande des clients)
 - Utile si l'environnement économique est extrêmement instable et que les estimations deviennent obsolètes rapidement
 
-**Positif :**
+##### Positif :
 
 Force les gestionnaires à planifier tout au long de l'année plutôt qu'une seule fois chaque année
 
@@ -191,7 +194,7 @@ Fournit une prédiction assez précise de l'avenir immédiat
 - Parce qu'il repose sur les dernières tendances
 - Tend à refléter la dernière réalité
 
-**Négatif :**
+##### Négatif :
 
 La budgétisation devient une activité continue
 
@@ -225,12 +228,12 @@ Cette approche exige que toutes les activités soient justifiées et hiérarchis
 
 ### Facteurs à prendre en compte: budgétisation à zéro
 
-**Positif :**
+##### Positif :
 
 - Peut être bon pour les nouvelles entreprises / nouvelles entreprises
 - Aide à empêcher la poursuite des pratiques passées dans le futur
 
-**Négatif :**
+##### Négatif :
 
 - Peut être très long et coûteux, vaincre le but de l'exercice
 - Peut créer de l'incertitude et générer des réactions négatives du personnel
@@ -248,17 +251,17 @@ La plupart des organisations qui ont tendance à l'utiliser en pratique ne l'app
 
 Les budgets des recettes sont normalement produits en premier mais sont généralement les plus difficiles à faire
 
-**Élection de la force de vente :**
+##### Élection de la force de vente :
 
 - Les vendeurs ont un contact constant avec les clients et connaissent le marché
 - Les vendeurs sont «traditionnellement» optimistes!
 - Mais peut être délibérément pessimiste - pour améliorer la «réalisabilité» et ainsi améliorer les bonus
 
-**Avis d'expert :**  
+##### Avis d'expert :
 
 - Vulnérable à "penser collectivement" - les experts ont hâte d'être en colère
 
-**Analyse historique des revenus :**  
+##### Analyse historique des revenus :
 
 Faites attention - les tendances ne se prolongent pas toujours
 
