@@ -89,3 +89,24 @@ Ensuite, vous devez examiner les limites de ce que vous pouvez faire.
 
 C'est ce qu'on appelle le facteur limitant.  
 Être conscient de ces facteurs vous permet d'optimiser l'utilisation des ressources que vous avez disponibles.
+
+### Budget comme outil de contrôle
+
+Les mesures de contrôle doivent être réalistes et opportunes.  
+Sinon, rien ne se produira dans le temps nécessaire.
+
+Types de mesures de contrôle si au-dessus du budget :
+
+- Réduire les dépenses (chaque livre économisé va directement au résultat net)
+- Augmenter le revenu
+- Augmenter la productivité (difficile à faire, mais parfois possible)
+- Réduire les dépenses ou les revenus dans les prochaines périodes pour que les chiffres réels soient conformes au budget
+
+Types de mesures de contrôle si sous budget :
+
+- Augmenter les dépenses (mais ne gaspillez pas d'argent uniquement pour établir des objectifs budgétaires)
+- Accélérer les dépenses des périodes futures si elles seraient bénéfiques maintenant
+- Nouvelles machines pour améliorer la productivité
+- Des frais généraux plus efficaces
+
+Ne pas ignorer l'effet de vos actions sur le budget de l'année prochaine
