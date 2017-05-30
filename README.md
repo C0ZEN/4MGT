@@ -6,7 +6,7 @@ Easy, with no love, again.
 
 ### To Do
 
-- ~~PPT1~~
+- [~~PPT1~~](https://github.com/C0ZEN/4MGT/edit/master/PPT1.md)
 - PPT2
 - PPT3
 - PPT4
