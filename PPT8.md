@@ -124,12 +124,12 @@ Il existe plusieurs types d'utilisation commune :
 
 ### Facteurs à prendre en compte: Budgets incrémentaux
 
-Positif :
+**Positif :**
 
 - Facilite et développe rapidement des budgets
 - Peut aider à définir des cibles très spécifiques pour les bénéfices
 
-Négatif :
+**Négatif :**
 
 - Les erreurs, les faiblesses ou les inefficacités des chiffres de l'année précédente sont reportés dans la nouvelle année
 - L'année écoulée n'est pas toujours un bon indicateur de l'avenir
@@ -153,12 +153,12 @@ Le scénario alternatif pertinent est adopté dès que les chiffres deviennent p
 
 ### Facteurs à considérer: budgétisation flexible
 
-Positif :
+**Positif :**
 
 Si les prévisions de revenus se déplacent vers la base d'un budget alternatif, elles sont mises en vigueur immédiatement.
 Peut être fait rapidement, car il est déjà préparé et accepté.
 
-Négatif:
+**Négatif :**
 
 Peut être un exercice long, car chaque issue doit être évaluée séparément.
 
@@ -171,4 +171,39 @@ L'identification des besoins en ressources si les volumes se révèlent différe
 Certaines entreprises produisent des réformes trimestrielles ou mi-années pour refléter les derniers changements de prix et de volume, tant pour les produits que pour les dépenses
 
 - Ensuite, contrôlez les performances en fonction des estimations révisées
-- C'est ce qu'on appelle "flexion du budget"
+- C'est ce qu'on appelle "flexion du budget".
+
+### Prestations de roulement
+
+Le budget est mis à jour en continu en ajoutant un autre mois / trimestre à l'avenir lorsque la période équivalente antérieure aura expiré
+
+- Les budgets sont recalculés en fonction de la dernière tendance et / ou de nouvelles données (comme les indicateurs économiques ou la demande des clients)
+- Utile si l'environnement économique est extrêmement instable et que les estimations deviennent obsolètes rapidement
+
+**Positif :**
+
+Force les gestionnaires à planifier tout au long de l'année plutôt qu'une seule fois chaque année
+
+- Encourage une attitude prospective
+
+Fournit une prédiction assez précise de l'avenir immédiat
+
+- Parce qu'il repose sur les dernières tendances
+- Tend à refléter la dernière réalité
+
+**Négatif :**
+
+La budgétisation devient une activité continue
+
+- Nécessite un temps et des efforts dédiés - donc, coûteux
+
+Les cibles évoluent toujours
+
+- Cela peut être démoralisant pour les gestionnaires
+- Difficile de mesurer les performances par rapport à des objectifs spécifiques
+
+L'entreprise tend à devenir réactive et fataliste
+
+- Plutôt que proactif et objectif
+
+Dans la pratique, les budgets roulants sont utilisés pour des activités commerciales spécifiques ou des opérations ou des produits / services, généralement pas dans l'ensemble
