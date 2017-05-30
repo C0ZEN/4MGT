@@ -155,5 +155,20 @@ Le scénario alternatif pertinent est adopté dès que les chiffres deviennent p
 
 Positif :
 
-Si les prévisions de revenus se déplacent vers la base d'un budget alternatif, elles sont mises en vigueur immédiatement
-Peut être fait rapidement, car il est déjà préparé et accepté
+Si les prévisions de revenus se déplacent vers la base d'un budget alternatif, elles sont mises en vigueur immédiatement.
+Peut être fait rapidement, car il est déjà préparé et accepté.
+
+Négatif:
+
+Peut être un exercice long, car chaque issue doit être évaluée séparément.
+
+- Doit tenir compte des économies d'échelle, des réductions de volume, des problèmes de capacité, etc.
+
+L'identification des besoins en ressources si les volumes se révèlent différents n'est que le point de départ
+
+- Avoir des ressources supplémentaires en mode veille n'est pas facile - certainement pas où la capacité, l'argent et les compétences sont concernés
+
+Certaines entreprises produisent des réformes trimestrielles ou mi-années pour refléter les derniers changements de prix et de volume, tant pour les produits que pour les dépenses
+
+- Ensuite, contrôlez les performances en fonction des estimations révisées
+- C'est ce qu'on appelle "flexion du budget"
