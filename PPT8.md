@@ -150,3 +150,10 @@ Les budgets flexibles ne sont pas très courants dans la pratique :
 - L'industrie automobile a tendance à l'utiliser - en raison de fluctuations soudaines de la demande
 
 Le scénario alternatif pertinent est adopté dès que les chiffres deviennent plus sûrs.
+
+### Facteurs à considérer: budgétisation flexible
+
+Positif :
+
+Si les prévisions de revenus se déplacent vers la base d'un budget alternatif, elles sont mises en vigueur immédiatement
+Peut être fait rapidement, car il est déjà préparé et accepté
