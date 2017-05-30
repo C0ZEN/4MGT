@@ -2,7 +2,7 @@
 
 ### Finance et comptabilité
 
-**Finance *(Finance)* :**  
+#### Finance *(Finance)* :
 
 Ensemble d'activités commerciales qui financent les agents économiques ayant des besoins financiers (capitaux).  
 Globalement, c'est la recherche de financement pour l'entreprise.
