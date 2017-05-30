@@ -222,3 +222,24 @@ Est-ce une alternative à l'approche incrémentale (traditionnelle)
 Cette approche exige que toutes les activités soient justifiées et hiérarchisées avant d'affecter des ressources
 
 - Le but sous-jacent est d'obtenir un bon rapport qualité-prix
+
+### Facteurs à prendre en compte: budgétisation à zéro
+
+**Positif :**
+
+- Peut être bon pour les nouvelles entreprises / nouvelles entreprises
+- Aide à empêcher la poursuite des pratiques passées dans le futur
+
+**Négatif :**
+
+- Peut être très long et coûteux, vaincre le but de l'exercice
+- Peut créer de l'incertitude et générer des réactions négatives du personnel
+
+Est utilisé avec modération dans l'environnement commercial
+
+La plupart des organisations qui ont tendance à l'utiliser en pratique ne l'appliquent qu'à des dépenses discrétionnaires telles que:
+
+- Entraînement
+- La publicité
+- Recherche et développement
+- Ou même des éléments de campagne individuels; Par exemple, les voyages, les fournitures de bureau, etc.
