@@ -243,3 +243,25 @@ La plupart des organisations qui ont tendance à l'utiliser en pratique ne l'app
 - La publicité
 - Recherche et développement
 - Ou même des éléments de campagne individuels; Par exemple, les voyages, les fournitures de bureau, etc.
+
+### Source des numéros budgétaires
+
+Les budgets des recettes sont normalement produits en premier mais sont généralement les plus difficiles à faire
+
+**Élection de la force de vente :**
+
+- Les vendeurs ont un contact constant avec les clients et connaissent le marché
+- Les vendeurs sont «traditionnellement» optimistes!
+- Mais peut être délibérément pessimiste - pour améliorer la «réalisabilité» et ainsi améliorer les bonus
+
+**Avis d'expert :**  
+
+- Vulnérable à "penser collectivement" - les experts ont hâte d'être en colère
+
+**Analyse historique des revenus :**  
+
+Faites attention - les tendances ne se prolongent pas toujours
+
+Une fois l'estimation des revenus obtenue, elle permet de modifier d'autres prévisions qui en dépendent
+
+- Par exemple, les frais d'interconnexion ou les frais d'itinérance pour les télécommunications
