@@ -73,4 +73,19 @@ Les gestionnaires intermédiaires et juniors ont une meilleure compréhension de
 
 - Compétences
 - Performance opérationnelle: en termes d'efficacité et de productivité
-- Capacité: goulots d'étranglement et limites
+- Capacité: goulots d'étranglement et limites.
+
+### Créer un budget
+
+Pour construire un budget, vous devez examiner ce que vous faites et où vous voulez aller pendant la période budgétaire.  
+Cela vient du plan commercial / stratégique.
+
+Ensuite, vous devez examiner les limites de ce que vous pouvez faire.  
+
+- Combien de produit / service pouvez-vous produire avec l'usine et le personnel existants?
+- Combien pouvez-vous vendre?
+- Combien pouvez-vous distribuer?
+- Si vous allez grandir, combien, et d'où vient l'argent?
+
+C'est ce qu'on appelle le facteur limitant.  
+Être conscient de ces facteurs vous permet d'optimiser l'utilisation des ressources que vous avez disponibles.
